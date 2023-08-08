@@ -1,0 +1,28 @@
+mkdir "habiba Wael mostafa"
+ls
+cd ~/"habiba wael mostafa"/
+mkdir -p Documents 
+ls
+cd ~/"habiba wael mostafa"/Documents 
+touch file1.txt file2.txt file3.txt
+ls
+cd..
+touche .hidden_file 
+ls
+cd ~/"habiba wael mostafa"/Documents
+nano file1.txt
+cat file1.txt 
+mkdir "-"
+cd ~/"habiba wael mostafa"/Documents/-/
+cd..
+cp -r Documents My_Documents
+ls
+cat hidden_file
+cd ~/"habiba wael mostafa"/Documents
+mv file2.txt file3.txt ../
+ls 
+cd..
+ls
+cd ~
+rm -r habiba\ wael\ mostafa/
+ls
